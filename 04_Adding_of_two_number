@@ -8,4 +8,4 @@ int main() {
     else
         printf("%d is Odd", n);
         return 0;
-} 
+}  
